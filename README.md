@@ -1,7 +1,7 @@
 # Padding Oracle Attack on AES-CBC
 
 ## Project Overview
-This project is a Python-based cryptographic simulation demonstrating a **Padding Oracle Side-Channel Attack**. It proves how deterministic cryptographic algorithms—specifically the Advanced Encryption Standard (AES) operating in Cipher Block Chaining (CBC) mode—can be entirely bypassed by exploiting boolean error-handling routines related to PKCS#7 padding.
+This project is a Python-based cryptographic simulation demonstrating a **Padding Oracle Side-Channel Attack**. It proves how deterministic cryptographic algorithms specifically the Advanced Encryption Standard (AES) operating in Cipher Block Chaining (CBC) mode can be entirely bypassed by exploiting boolean error-handling routines related to PKCS#7 padding.
 
 ## How It Works
 The project consists of two core components:
